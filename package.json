@@ -1,0 +1,33 @@
+{
+  "name": "nordabok",
+  "version": "1.0.0",
+  "description": "Command line dictionary for Nordic languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macbre/nordabok.git"
+  },
+  "keywords": [
+    "dictionary",
+    "nordic",
+    "faroese",
+    "føroyskt",
+    "english"
+  ],
+  "author": "Maciej Brencz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macbre/nordabok/issues"
+  },
+  "homepage": "https://github.com/macbre/nordabok#readme",
+  "dependencies": {
+    "node-fetch": "^1.5.1"
+  },
+  "devDependencies": {
+    "js-beautify": "^1.6.2",
+    "jshint": "^2.9.1"
+  }
+}
