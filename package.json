@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/macbre/nordabok#readme",
   "dependencies": {
-    "node-fetch": "^1.5.1"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "js-beautify": "^1.6.2",
